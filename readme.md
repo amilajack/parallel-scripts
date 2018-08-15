@@ -1,4 +1,7 @@
 ## Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/parallel-scripts.svg)](https://greenkeeper.io/)
+
 ```bash
 npm install --save parallel-scripts
 ```
